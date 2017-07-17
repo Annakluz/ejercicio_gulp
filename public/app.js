@@ -1,0 +1,1 @@
+function ಠ_ಠ883(){console.log("ಠ_ಠ883")}
